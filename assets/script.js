@@ -44,6 +44,7 @@ function startTimer() {
         clearInterval(timer)
     }
     
+
 }
 
 function decreaseTimer() {
